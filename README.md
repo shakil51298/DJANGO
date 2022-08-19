@@ -22,4 +22,3 @@
 ## ==> Create an app
     py manage.py startapp appname
     
-[Download](https://shakil51298.github.io/DJANGO/blob/main/BOOK.TXT)
