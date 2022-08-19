@@ -22,4 +22,4 @@
 ## ==> Create an app
     py manage.py startapp appname
     
- [Dowload](BOOK.txt)
+ [Dowload](BOOK.TXT)
